@@ -24,10 +24,10 @@
 * ``2016`` - leave from university (because program is very old)
 * ``2016`` - created my first «game», in HTML/CSS/JS (VanillaJS :D)
 * ``2021`` - created site ap-i-code.com
-* ``2022`` - start created my first CRM and her first modul «Online warehouse»
+* ``2022`` - started write my first CRM and her first modul «Online warehouse»
 
 - 👀 I’m interested new technology in programming language
 - 🔝 I’m currently learning ``«Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More»``
 - ⚽️ I love: football, Harley Davidson: Night Rod, fishing, mountains and silence
 
-**Atrejo Dream** 01.07.2022
+**Atrejo Dream** 02.07.2022

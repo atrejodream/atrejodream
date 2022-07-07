@@ -27,7 +27,7 @@
 * ``2022`` - started write my first CRM and her first modul «Online warehouse»
 
 - 👀 I’m interested new technology in programming language
-- 🔝 I’m currently learning ``«Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More»``
+- 🔝 I’m currently learning ``«Hypervisor: VirtualBox»``
 - ⚽️ I love: football, Harley Davidson: Night Rod, fishing, mountains and silence
 
-**Atrejo Dream** 02.07.2022
+**Atrejo Dream** 07.07.2022

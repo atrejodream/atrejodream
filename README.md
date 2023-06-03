@@ -10,7 +10,7 @@
 * Google Adwords sertifications: basic, searching and media
 * Google webmaster, analytics, tag manager
 * Search Engine Optimisation
-* English A1 (simple speak)
+* English A2
 * A little: SQL, jQuery, React, Angular, Vue, DataBase Design, Android, Java, 
   ER diagram
 * In university: Engineering high load systems and Delphi

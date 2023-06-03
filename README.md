@@ -23,7 +23,8 @@
 * ``2008`` - improved family business
 * ``2016`` - leave from university (because program is very old)
 * ``2016`` - created my first «game», in HTML/CSS/JS (VanillaJS :D)
-* ``2021`` - created site ap-i-code.com
+* ``2017`` - created site monro-de.com
+* ``2017`` - created site odbm-ua.com
 * ``2022`` - started write my first CRM and her first modul «Online warehouse»
 
 - 👀 I’m interested new technology in programming language

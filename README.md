@@ -1,4 +1,6 @@
 ## My skills
+* PHP
+* WordPress
 * Python 3 (OOP and functional)
 * Django (DRF, DjDT, Pylint, PyTest)
 * Selenium
